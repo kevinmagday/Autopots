@@ -1,7 +1,7 @@
-autoPotsAddress=0x00764EAB
-autoPotsBypassAddress1=0x004B3D20
-autoPotsBypassAddress2=0x004B3D2C
+autoPotsAddress=0x00764F8B
+autoPotsBypassAddress1=0x004B3DF2
+autoPotsBypassAddress2=0x004B3E08
 hpfAddress=0x00BBAC78
-wallNameAddress=0x005D4871
-antiChatblockAddress=0x007D5170
+wallNameAddress=0x005D4951
+antiChatblockAddress=0x007D5250
 atkSpdAddress=0x00BC1DAC
