@@ -1,4 +1,4 @@
-autoPotsAddress=0x00790DEB
+autoPotsAddress=0x00790BEB
 autopotsAddress1=
 autoPotsBypassAddress1=0x004BD7F2
 autoPotsBypassAddress2=0x004BD808
