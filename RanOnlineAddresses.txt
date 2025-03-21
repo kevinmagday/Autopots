@@ -1,5 +1,5 @@
 autoPotsAddress=0x00796BEB
-autopotsAddress1=
+autopotsAddress1=0x00796BFF
 autoPotsBypassAddress1=0x004C2342
 autoPotsBypassAddress2=0x004C2358
 hpfAddress=0x00C64FF2
